@@ -12,9 +12,9 @@ env/
 
 # Datos generados (Pesados)
 # Ignoramos todas las instancias y soluciones, excepto un pequeño ejemplo si quieres
-instances/
 solutions/
 parameter_tuning_results/
+helper_report/competition_results/
 
 # Archivos del sistema
 .DS_Store
