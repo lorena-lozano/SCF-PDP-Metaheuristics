@@ -29,6 +29,9 @@ Unlike standard Vehicle Routing Problems (VRPs), the SCF-PDP requires selecting 
 - **Delta Evaluation:** Constant time $O(1)$ objective function recalculation for local search moves, avoiding full route re-evaluations.
 - **Adaptive Neighborhood Sampling:** Dynamically reduces search space for extremely large instances (up to 10,000 requests) to satisfy strict runtime constraints.
 
+## Full Report & Results
+For a detailed explanation of the mathematical model, the implemented algorithms, parameter tuning, and a comprehensive analysis of the computational results, please refer to the **`SCF-PDP-Metaheuristics`** document included in this repository.
+
 ## Project Structure
 - `VRP.py`: Core framework (Instance parser, Solution representation, Fairness computation).
 - `det_cons_heu_delta.py` & `rand_cons_heu_delta.py`: Constructive heuristics.
