@@ -1,0 +1,21 @@
+# Entornos virtuales y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Carpetas del IDE
+.vscode/
+.idea/
+
+# Datos generados (Pesados)
+# Ignoramos todas las instancias y soluciones, excepto un pequeño ejemplo si quieres
+instances/
+solutions/
+parameter_tuning_results/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

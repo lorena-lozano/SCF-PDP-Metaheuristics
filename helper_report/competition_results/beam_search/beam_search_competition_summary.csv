@@ -1,0 +1,4 @@
+size,instance,objective,runtime,feasible,iterations,message
+100,instance61_nreq100_nveh2_gamma91,9061.12,4.030,True,0,Feasible
+1000,instance61_nreq1000_nveh20_gamma879,217404.29,26.348,True,0,Feasible
+2000,instance61_nreq2000_nveh40_gamma1829,644368.05,134.727,True,0,Feasible
